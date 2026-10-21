@@ -1,16 +1,15 @@
-## Hi there 👋
+# Mustapha Lawal
 
-<!--
-**Musty325199/Musty325199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer (MERN) in Lagos, Nigeria. I build SaaS apps and business platforms, and I'm open to remote roles and freelance work.
 
-Here are some ideas to get you started:
+**Portfolio:** https://musty-dev.vercel.app
+**WhatsApp:** 09065323916
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Hostvale**: shortlet management app for hosts in Nigeria, https://hostvalehq.github.io/
+- **Tessel**
+- **NOOK**
+- **StockFlow**: inventory and sales platform, https://stockflowhq.com
+
+## Stack
+MongoDB · Express · React · Node.js
